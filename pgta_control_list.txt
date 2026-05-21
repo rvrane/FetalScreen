@@ -1,0 +1,1 @@
+sample1    /data/bam_folder1/sample1.bam"

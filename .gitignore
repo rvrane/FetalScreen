@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+*.bam
+*.bai
+*.npz
+*.wig
+*.bed
+*.bedgraph
+*.bw
+*.bigwig
+*.fasta
+*.fastq
+*.fq
+*.fna
+*.fai
+*.gff
+*.gtf
+*.vcf
+*.tsv
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.hdf
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+
+# Project specific
+npz_files/
+output/
+results/

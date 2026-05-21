@@ -1,0 +1,16 @@
+# Requirements for WisecondorX Report Generator Scripts
+
+# Core dependencies for PDF generation
+reportlab>=3.6.0
+
+# For handling images
+Pillow>=8.0.0
+
+# Data manipulation
+pandas>=1.3.0
+
+# Standard library extensions
+pathlib2>=2.3.0; python_version < "3.4"
+
+# Optional: For enhanced table handling
+openpyxl>=3.0.0
